@@ -1,7 +1,7 @@
 {
-  "homepage": "https://github.com/myorg/rules_mylang",
+  "homepage": "https://github.com/myorg/rules_pkl",
   "maintainers": [],
-  "repository": ["github:myorg/rules_mylang"],
+  "repository": ["github:myorg/rules_pkl"],
   "versions": [],
   "yanked_versions": {}
 }
